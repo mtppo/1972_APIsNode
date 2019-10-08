@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/mtppo/1972_APIsNode/issues"
   },
-  "homepage": "https://github.com/mtppo/1972_APIsNode#readme"
+  "homepage": "https://github.com/mtppo/1972_APIsNode#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "http": "0.0.0"
+  }
 }
